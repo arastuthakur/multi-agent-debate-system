@@ -26,8 +26,8 @@ A Streamlit-based web application that implements a sophisticated multi-agent de
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/arastuthakur/multi-agent-debate-system
+    cd multi-agent-debate-system
     ```
 
 2. Install the required dependencies:
